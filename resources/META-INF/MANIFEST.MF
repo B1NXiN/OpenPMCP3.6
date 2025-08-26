@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Main-Class: net.minecraft.client.Main
+
+Name: assets/minecraft/models/block/mangrove_fence_gate_wall_open.json
+SHA-256-Digest: BrgOZ2NzXl8v2zrVy0KDBQx98YPhG7yeBw1gjWASi8M=
+
+Name: data/minecraft/structures/village/common/animals/cat_jellie.nbt
+SHA-256-Digest: oQz5ETvAIsWAjWZ1lVAajxXqQVQgy5GsB70vs8VhcD4=
+
